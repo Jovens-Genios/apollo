@@ -1,7 +1,7 @@
-# Apollo inside of NuxtJS
+# Apollo inside of NuxtJS using graphql-ws protocol
 
 * Nuxt.js module to use [vue-apollo](https://github.com/Akryum/vue-apollo)
-* uses internally same approach as [vue-cli-plugin-apollo](https://github.com/Akryum/vue-cli-plugin-apollo)
+* uses internally same approach as [vue-cli-plugin-apollo](https://github.com/Jovens-Genios/vue-cli-plugin-apollo)
 
 [![npm version](https://img.shields.io/npm/v/@nuxtjs/apollo.svg)](https://www.npmjs.com/package/@nuxtjs/apollo)
 [![license](https://img.shields.io/github/license/nuxt-community/apollo-module.svg)](https://github.com/nuxt-community/apollo-module/blob/master/LICENSE)
@@ -239,7 +239,7 @@ You can either (in a simple setup) just add an object as described above. If you
 ### clientConfigs `Option`: required
 Sets up the apollo client endpoints. All available options for each endpoint you find [here](https://github.com/Akryum/vue-cli-plugin-apollo/blob/master/graphql-client/src/index.js#L15)
 
-Check out [official vue-apollo-cli](https://github.com/Akryum/vue-cli-plugin-apollo) where possible usecases are presented.
+Check out [official vue-apollo-cli](https://github.com/Jovens-Genios/vue-cli-plugin-apollo) where possible usecases are presented.
 
 #### clientConfigs.default `Object`: required
 

@@ -11,7 +11,7 @@
       "esnext.asynciterable",
       "dom"
     ],
-    "types": ["vue-cli-plugin-apollo"]
+    "types": ["@jovensgeniosengineering/vue-cli-plugin-apollo"]
   },
   "exclude": ["node_modules"]
 }
